@@ -1,11 +1,13 @@
 # Futurein-website
 
 ## Description
-frontend Website on a Youtube channel.
+Frontend Website on a Youtube channel using HTML,CSS,JAVASCRIPT.
 
 ### Demo Run
 [futurein](https://jay-498.github.io/Futurein-website/)
 
 
 ### Technologies
-[![made-with-html](https://img.shields.io/badge/Made%20with-html-1f425f.svg)](https://www.html.org/) 
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
